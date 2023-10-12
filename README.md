@@ -8,8 +8,8 @@
 - Open the .sln file and add/update the projects .dll references if needed, you can find these at: `DRIVENAME:\SteamLibrary\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed`.
 - Build as debug/release x64 and inject it into game using any sharp mono injector of choice.
 
-## Please Contribute
-- Please contribute, i am making this solo for fun but any ones contributions would be appreciated. Be aware i have a few more things to add.
+## Information
+- This is made as a beginners guide to making cheats for unity games, it is very basic and just uses the game 1v1.lol as an example.
 
 <p align="left">
   <img src="https://media.tenor.com/m6C7F1L78cYAAAAM/angry-korean.gif" width="200" height="186">
