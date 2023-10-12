@@ -1,4 +1,4 @@
-# JustBad 1v1.lol
+# 1v1.lol Cheat Framework
 -----------------------------
 
 # A Simple Internal .dll For 1v1.lol
