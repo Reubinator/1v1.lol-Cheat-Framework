@@ -11,7 +11,7 @@
 ## Information
 - This is made as a beginners guide to making cheats for unity games, it is very basic and just uses the game 1v1.lol as an example.
 
-  ## Features
+## Features
 - Whilst this cheat was made for teaching it can also be used! It has a basic aimbot with a visiblity check and a few more if you things if you want to try it out.
 
 <p align="left">
