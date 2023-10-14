@@ -48,7 +48,7 @@ namespace _1v1CheatFramework
                 chamsToggle = !chamsToggle; // If the G key is pressed the chamsToggle boolean variable goes to either true/false until the key is pressed again. This creates a toggle like control
             }
 
-            if (!chamsToggle) // If the chams toggle is set to true then run this code
+            if (!chamsToggle) // If the chams toggle is set to false then run this code
             {
                 foreach (PlayerController enemy in Aimbot.enemies)
                 {
